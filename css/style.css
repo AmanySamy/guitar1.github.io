@@ -56,6 +56,26 @@
     margin-left: 40px;
 }
 /***********slider*********/
+.slider{
+    height: 100vh;
+
+}
+.slider .item{
+    height: 100vh;
+}
+.slider .item1{
+    background: url(../images/slider-light-slide-1-1920x776.jpg) no-repeat;
+    background-size: cover;
+}
+.slider .item2{
+    background: url(../images/slider-light-slide-2-1920x776.jpg) no-repeat;
+    background-size: cover;
+}
+.slider .item3{
+    background: url(../images/slider-slide-3-1920x776.jpg) no-repeat;
+    background-size: cover;
+}
+
 .slider h1{
     position: absolute;
     top: 300px;
